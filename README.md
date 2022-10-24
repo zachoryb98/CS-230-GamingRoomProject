@@ -12,7 +12,10 @@ What about the process of working through a design document did you find helpful
 One of the most important parts was having the requirements defined. Having those defined early and understanding the Entity relationship of the UML was very helpful when designing the code since we had something that we could visually understand and follow while writing it.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+In the recommendations section I would have liked to have gotten more detailed with security tools, and software we could use. I was able to get more detailed as I started this part early but had some life events that made it more of a time crunch. I would go into more detail about things like active directory and other tools.
 
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
+I interpreted the user's needs by adding visuals and explanations of what everything was and would be doing for us. This would allow for someone who is more business savvy to understand, it acts as a translator between tech and business people. It is important to consuder the user's needs so you can accurately provide and please them with the finished product.
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+I followed the provided tutorials and did a little extra reading on the programming topics, combine those tasks and I was able to tackle the software design. In the future I would consider using maven and dropwizard to create a client server architecture to allow API calls to be made and allow people to browse a public website. I would definitely include UML and a software design document to help build this software.
